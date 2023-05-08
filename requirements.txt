@@ -1,0 +1,7 @@
+aiofiles
+asyncpg
+python_dotenv
+fastapi
+pydantic
+psycopg2-binary
+uvicorn

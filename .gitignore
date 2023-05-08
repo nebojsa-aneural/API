@@ -1,0 +1,5 @@
+__pycache__/
+.env
+trash
+.DS_Store
+*/.DS_Store
