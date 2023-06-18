@@ -26,6 +26,7 @@ app = FastAPI()
 origins = [
     "http://localhost:8080",  # Update the port to match the one you are using
     "https://localhost:8080",
+    "segmentation.aneural.net",
 ]
 
 app.add_middleware(
