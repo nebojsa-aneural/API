@@ -1,4 +1,4 @@
-# Aneurala REST API
+# Aneural REST API
 
 Serving segmentation models
 
